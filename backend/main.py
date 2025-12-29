@@ -4,8 +4,17 @@ from fastapi.responses import JSONResponse
 import os
 import shutil
 from utils import extract_text_from_pdf, extract_skills, calculate_similarity
+from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI()
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:3000"], # Allows your frontend to talk to backend
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 # Ensure upload directory exists
 UPLOAD_DIR = 'uploads'

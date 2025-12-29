@@ -1,0 +1,17 @@
+[
+  "Python", "Java", "C++", "C#", "JavaScript", "TypeScript", "Go", "Rust", "Kotlin", "Swift",
+  "React", "Next.js", "Vue.js", "Angular", "Svelte", "Nuxt.js", "Gatsby", "Redux", "MobX",
+  "Node.js", "Express", "NestJS", "FastAPI", "Django", "Flask", "Spring Boot", "Ruby on Rails", "Laravel", "ASP.NET",
+  "Docker", "Kubernetes", "AWS", "Azure", "GCP", "Terraform", "Ansible", "Jenkins", "GitHub Actions", "CircleCI",
+  "Git", "GitHub", "GitLab", "Bitbucket", "SVN", "Mercurial",
+  "SQL", "NoSQL", "PostgreSQL", "MySQL", "MongoDB", "Redis", "Cassandra", "Elasticsearch", "DynamoDB", "Firebase",
+  "GraphQL", "REST API", "gRPC", "WebSockets", "WebRTC",
+  "Machine Learning", "Deep Learning", "Computer Vision", "NLP", "LLM", "RAG", "GenAI", "TensorFlow", "PyTorch", "Keras",
+  "Scikit-learn", "Pandas", "NumPy", "Matplotlib", "Seaborn", "OpenCV", "NLTK", "spaCy", "Hugging Face", "LangChain",
+  "Linux", "Bash", "Shell Scripting", "PowerShell", "Windows Server", "macOS", "Ubuntu", "CentOS", "Debian",
+  "Agile", "Scrum", "Kanban", "Jira", "Trello", "Asana", "Confluence", "Notion",
+  "CI/CD", "TDD", "BDD", "Unit Testing", "Integration Testing", "E2E Testing", "Jest", "Mocha", "JUnit", "Pytest",
+  "Microservices", "Serverless", "Monolith", "RESTful", "SOAP", "GraphQL", "gRPC", "WebSockets", "OAuth", "JWT",
+  "Blockchain", "Smart Contracts", "Solidity", "Ethereum", "Web3", "IPFS", "Cryptography", "Cybersecurity", "Penetration Testing", "OWASP",
+  "Data Structures", "Algorithms", "System Design", "Design Patterns", "Clean Code", "SOLID Principles", "DSA", "Big O Notation", "Time Complexity", "Space Complexity"
+]
